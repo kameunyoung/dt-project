@@ -1,0 +1,5 @@
+.idea
+dt.db
+*.pyc
+__pycahe__
+Migrations
